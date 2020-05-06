@@ -1,3 +1,3 @@
 # Natours
 
-Website for Natours, part of the Advances Sass Course.
+Website for Natours, part of the Advanced Sass Course.
